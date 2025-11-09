@@ -5,7 +5,7 @@
 
 ## Descripción de la Actividad
 
-Implementar una aplicación Java que procese información de temperaturas utilizando **programación funcional** y aplicando **principios SOLID**.
+Implementar una aplicación Java que procese información de temperaturas utilizando **programación funcional**.
 
 ## Requisitos
 
